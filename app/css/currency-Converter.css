@@ -1,0 +1,27 @@
+html {
+  /*text-align: center;*/
+}
+
+.main-panel{
+  margin-top: 200px;
+  height: 650px;
+  width : 1200px;
+}
+
+div.row{
+  padding: 10px;
+}
+.header{
+  background-color: darkblue;
+  color: white;
+  font-weight: bold;
+}
+.panel{
+  border-style: solid;
+  border-width: 2px;
+  border-color: darkblue;
+
+}
+.container{
+	
+}
